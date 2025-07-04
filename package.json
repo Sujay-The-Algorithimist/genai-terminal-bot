@@ -1,0 +1,22 @@
+{
+  "name": "gi",
+  "version": "1.0.0",
+  "description": "ai",
+  "main": "54",
+  "scripts": {
+    "test": "cd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "LLM_MODEL"
+  },
+  "keywords": [
+    "s"
+  ],
+  "author": "sujay",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.8.0",
+    "readline-sync": "^1.4.10"
+  }
+}
